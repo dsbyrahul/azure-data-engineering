@@ -1,0 +1,22 @@
+Order_ID,Order_Date,Region,Product,Category,Quantity,Unit_Price,Customer_Type
+1001,01-01-2024,West,Laptop,Electronics,2,60000,Corporate
+1002,02-01-2024,North,Mobile,Electronics,3,20000,Consumer
+1003,03-01-2024,South,Chair,Furniture,5,3500,Home Office
+1004,04-01-2024,East,Table,Furniture,1,8000,Consumer
+1005,05-01-2024,West,Printer,Electronics,2,15000,Corporate
+1006,06-01-2024,North,Sofa,Furniture,1,30000,Home Office
+1007,07-01-2024,South,Tablet,Electronics,4,25000,Consumer
+1008,08-01-2024,East,Desk,Furniture,2,12000,Corporate
+1009,09-01-2024,West,Monitor,Electronics,3,10000,Consumer
+1010,10-01-2024,North,Bed,Furniture,1,40000,Home Office
+1011,07-01-2024,South,Chair,Furniture,2,3500,Home Office
+1012,08-01-2024,East,Table,Furniture,5,8000,Home Office
+1013,09-01-2024,West,Printer,Electronics,3,15000,Consumer
+1014,10-01-2024,North,Sofa,Furniture,1,30000,Corporate
+1015,04-01-2024,South,Tablet,Electronics,8,25000,Home Office
+1016,05-01-2024,East,Desk,Furniture,6,12000,Corporate
+1017,06-01-2024,West,Laptop,Electronics,2,60000,Corporate
+1018,01-01-2024,North,Mobile,Electronics,1,20000,Consumer
+1019,02-01-2024,South,Chair,Furniture,3,3500,Home Office
+1020,03-01-2024,East,Table,Furniture,2,8000,Consumer
+,,,,,,,
